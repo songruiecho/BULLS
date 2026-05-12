@@ -1,0 +1,1345 @@
+{
+  "name": "Cluster_298",
+  "children": [
+    {
+      "name": "Cluster_295",
+      "children": [
+        {
+          "name": "Cluster_292",
+          "children": [
+            {
+              "name": "Cluster_287",
+              "children": [
+                {
+                  "name": "Cluster_250",
+                  "children": [
+                    {
+                      "name": "Cluster_192",
+                      "children": [
+                        {
+                          "name": "Cluster_164",
+                          "children": [
+                            {
+                              "name": "credit limit",
+                              "children": []
+                            },
+                            {
+                              "name": "credit limit change",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cluster_165",
+                          "children": [
+                            {
+                              "name": "min payment",
+                              "children": []
+                            },
+                            {
+                              "name": "Cluster_160",
+                              "children": [
+                                {
+                                  "name": "pay bill",
+                                  "children": []
+                                },
+                                {
+                                  "name": "bill balance",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cluster_222",
+                      "children": [
+                        {
+                          "name": "credit score",
+                          "children": []
+                        },
+                        {
+                          "name": "interest rate",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Cluster_275",
+                  "children": [
+                    {
+                      "name": "Cluster_232",
+                      "children": [
+                        {
+                          "name": "Cluster_170",
+                          "children": [
+                            {
+                              "name": "replacement card duration",
+                              "children": []
+                            },
+                            {
+                              "name": "damaged card",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cluster_207",
+                          "children": [
+                            {
+                              "name": "apr",
+                              "children": []
+                            },
+                            {
+                              "name": "expiration date",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cluster_270",
+                      "children": [
+                        {
+                          "name": "Cluster_191",
+                          "children": [
+                            {
+                              "name": "improve credit score",
+                              "children": []
+                            },
+                            {
+                              "name": "Cluster_186",
+                              "children": [
+                                {
+                                  "name": "rewards balance",
+                                  "children": []
+                                },
+                                {
+                                  "name": "Cluster_177",
+                                  "children": [
+                                    {
+                                      "name": "new card",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "Cluster_154",
+                                      "children": [
+                                        {
+                                          "name": "international fees",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "redeem rewards",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cluster_257",
+                          "children": [
+                            {
+                              "name": "insurance",
+                              "children": []
+                            },
+                            {
+                              "name": "Cluster_231",
+                              "children": [
+                                {
+                                  "name": "Cluster_179",
+                                  "children": [
+                                    {
+                                      "name": "application status",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "report lost card",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Cluster_205",
+                                  "children": [
+                                    {
+                                      "name": "order checks",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "card declined",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cluster_288",
+              "children": [
+                {
+                  "name": "Cluster_241",
+                  "children": [
+                    {
+                      "name": "Cluster_225",
+                      "children": [
+                        {
+                          "name": "pto request status",
+                          "children": []
+                        },
+                        {
+                          "name": "Cluster_152",
+                          "children": [
+                            {
+                              "name": "pto used",
+                              "children": []
+                            },
+                            {
+                              "name": "pto balance",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cluster_229",
+                      "children": [
+                        {
+                          "name": "flight status",
+                          "children": []
+                        },
+                        {
+                          "name": "Cluster_184",
+                          "children": [
+                            {
+                              "name": "transactions",
+                              "children": []
+                            },
+                            {
+                              "name": "order status",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Cluster_269",
+                  "children": [
+                    {
+                      "name": "Cluster_228",
+                      "children": [
+                        {
+                          "name": "rollover 401k",
+                          "children": []
+                        },
+                        {
+                          "name": "Cluster_185",
+                          "children": [
+                            {
+                              "name": "report fraud",
+                              "children": []
+                            },
+                            {
+                              "name": "Cluster_159",
+                              "children": [
+                                {
+                                  "name": "balance",
+                                  "children": []
+                                },
+                                {
+                                  "name": "account blocked",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cluster_266",
+                      "children": [
+                        {
+                          "name": "reset settings",
+                          "children": []
+                        },
+                        {
+                          "name": "Cluster_262",
+                          "children": [
+                            {
+                              "name": "Cluster_224",
+                              "children": [
+                                {
+                                  "name": "freeze account",
+                                  "children": []
+                                },
+                                {
+                                  "name": "Cluster_193",
+                                  "children": [
+                                    {
+                                      "name": "insurance change",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "direct deposit",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Cluster_236",
+                              "children": [
+                                {
+                                  "name": "routing",
+                                  "children": []
+                                },
+                                {
+                                  "name": "Cluster_215",
+                                  "children": [
+                                    {
+                                      "name": "transfer",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "Cluster_198",
+                                      "children": [
+                                        {
+                                          "name": "exchange rate",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Cluster_166",
+                                          "children": [
+                                            {
+                                              "name": "travel notification",
+                                              "children": []
+                                            },
+                                            {
+                                              "name": "pin change",
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cluster_293",
+          "children": [
+            {
+              "name": "Cluster_280",
+              "children": [
+                {
+                  "name": "Cluster_243",
+                  "children": [
+                    {
+                      "name": "Cluster_195",
+                      "children": [
+                        {
+                          "name": "who made you",
+                          "children": []
+                        },
+                        {
+                          "name": "Cluster_151",
+                          "children": [
+                            {
+                              "name": "user name",
+                              "children": []
+                            },
+                            {
+                              "name": "what is your name",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cluster_240",
+                      "children": [
+                        {
+                          "name": "who do you work for",
+                          "children": []
+                        },
+                        {
+                          "name": "greeting",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Cluster_273",
+                  "children": [
+                    {
+                      "name": "Cluster_255",
+                      "children": [
+                        {
+                          "name": "Cluster_168",
+                          "children": [
+                            {
+                              "name": "taxes",
+                              "children": []
+                            },
+                            {
+                              "name": "income",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cluster_204",
+                          "children": [
+                            {
+                              "name": "where are you from",
+                              "children": []
+                            },
+                            {
+                              "name": "w2",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cluster_256",
+                      "children": [
+                        {
+                          "name": "what are your hobbies",
+                          "children": []
+                        },
+                        {
+                          "name": "Cluster_226",
+                          "children": [
+                            {
+                              "name": "gas type",
+                              "children": []
+                            },
+                            {
+                              "name": "Cluster_172",
+                              "children": [
+                                {
+                                  "name": "oil change how",
+                                  "children": []
+                                },
+                                {
+                                  "name": "oil change when",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cluster_282",
+              "children": [
+                {
+                  "name": "Cluster_267",
+                  "children": [
+                    {
+                      "name": "Cluster_213",
+                      "children": [
+                        {
+                          "name": "payday",
+                          "children": []
+                        },
+                        {
+                          "name": "Cluster_183",
+                          "children": [
+                            {
+                              "name": "Cluster_156",
+                              "children": [
+                                {
+                                  "name": "spending history",
+                                  "children": []
+                                },
+                                {
+                                  "name": "bill due",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Cluster_167",
+                              "children": [
+                                {
+                                  "name": "food last",
+                                  "children": []
+                                },
+                                {
+                                  "name": "last maintenance",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cluster_245",
+                      "children": [
+                        {
+                          "name": "mpg",
+                          "children": []
+                        },
+                        {
+                          "name": "how old are you",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Cluster_278",
+                  "children": [
+                    {
+                      "name": "Cluster_208",
+                      "children": [
+                        {
+                          "name": "find phone",
+                          "children": []
+                        },
+                        {
+                          "name": "sync device",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cluster_268",
+                      "children": [
+                        {
+                          "name": "Cluster_230",
+                          "children": [
+                            {
+                              "name": "measurement conversion",
+                              "children": []
+                            },
+                            {
+                              "name": "Cluster_189",
+                              "children": [
+                                {
+                                  "name": "distance",
+                                  "children": []
+                                },
+                                {
+                                  "name": "cook time",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cluster_253",
+                          "children": [
+                            {
+                              "name": "Cluster_200",
+                              "children": [
+                                {
+                                  "name": "tire pressure",
+                                  "children": []
+                                },
+                                {
+                                  "name": "tire change",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Cluster_234",
+                              "children": [
+                                {
+                                  "name": "Cluster_173",
+                                  "children": [
+                                    {
+                                      "name": "schedule maintenance",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "jump start",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Cluster_196",
+                                  "children": [
+                                    {
+                                      "name": "gas",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "traffic",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cluster_297",
+      "children": [
+        {
+          "name": "Cluster_285",
+          "children": [
+            {
+              "name": "Cluster_272",
+              "children": [
+                {
+                  "name": "fun fact",
+                  "children": []
+                },
+                {
+                  "name": "Cluster_263",
+                  "children": [
+                    {
+                      "name": "Cluster_201",
+                      "children": [
+                        {
+                          "name": "Cluster_158",
+                          "children": [
+                            {
+                              "name": "confirm reservation",
+                              "children": []
+                            },
+                            {
+                              "name": "schedule meeting",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cluster_187",
+                          "children": [
+                            {
+                              "name": "how busy",
+                              "children": []
+                            },
+                            {
+                              "name": "meeting schedule",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cluster_235",
+                      "children": [
+                        {
+                          "name": "alarm",
+                          "children": []
+                        },
+                        {
+                          "name": "Cluster_190",
+                          "children": [
+                            {
+                              "name": "reminder",
+                              "children": []
+                            },
+                            {
+                              "name": "reminder update",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cluster_284",
+              "children": [
+                {
+                  "name": "Cluster_248",
+                  "children": [
+                    {
+                      "name": "timer",
+                      "children": []
+                    },
+                    {
+                      "name": "do you have pets",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Cluster_260",
+                  "children": [
+                    {
+                      "name": "Cluster_197",
+                      "children": [
+                        {
+                          "name": "date",
+                          "children": []
+                        },
+                        {
+                          "name": "next holiday",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cluster_237",
+                      "children": [
+                        {
+                          "name": "weather",
+                          "children": []
+                        },
+                        {
+                          "name": "Cluster_178",
+                          "children": [
+                            {
+                              "name": "time",
+                              "children": []
+                            },
+                            {
+                              "name": "timezone",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cluster_296",
+          "children": [
+            {
+              "name": "Cluster_290",
+              "children": [
+                {
+                  "name": "Cluster_283",
+                  "children": [
+                    {
+                      "name": "Cluster_265",
+                      "children": [
+                        {
+                          "name": "Cluster_175",
+                          "children": [
+                            {
+                              "name": "change user name",
+                              "children": []
+                            },
+                            {
+                              "name": "change ai name",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cluster_238",
+                          "children": [
+                            {
+                              "name": "make call",
+                              "children": []
+                            },
+                            {
+                              "name": "change accent",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cluster_274",
+                      "children": [
+                        {
+                          "name": "Cluster_244",
+                          "children": [
+                            {
+                              "name": "change speed",
+                              "children": []
+                            },
+                            {
+                              "name": "cancel",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cluster_254",
+                          "children": [
+                            {
+                              "name": "goodbye",
+                              "children": []
+                            },
+                            {
+                              "name": "Cluster_219",
+                              "children": [
+                                {
+                                  "name": "thank you",
+                                  "children": []
+                                },
+                                {
+                                  "name": "spelling",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Cluster_286",
+                  "children": [
+                    {
+                      "name": "whisper mode",
+                      "children": []
+                    },
+                    {
+                      "name": "Cluster_258",
+                      "children": [
+                        {
+                          "name": "Cluster_216",
+                          "children": [
+                            {
+                              "name": "change volume",
+                              "children": []
+                            },
+                            {
+                              "name": "what song",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cluster_217",
+                          "children": [
+                            {
+                              "name": "next song",
+                              "children": []
+                            },
+                            {
+                              "name": "Cluster_176",
+                              "children": [
+                                {
+                                  "name": "play music",
+                                  "children": []
+                                },
+                                {
+                                  "name": "update playlist",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cluster_294",
+              "children": [
+                {
+                  "name": "Cluster_249",
+                  "children": [
+                    {
+                      "name": "maybe",
+                      "children": []
+                    },
+                    {
+                      "name": "Cluster_203",
+                      "children": [
+                        {
+                          "name": "yes",
+                          "children": []
+                        },
+                        {
+                          "name": "no",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Cluster_291",
+                  "children": [
+                    {
+                      "name": "Cluster_279",
+                      "children": [
+                        {
+                          "name": "Cluster_252",
+                          "children": [
+                            {
+                              "name": "Cluster_212",
+                              "children": [
+                                {
+                                  "name": "Cluster_163",
+                                  "children": [
+                                    {
+                                      "name": "international visa",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "vaccines",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Cluster_181",
+                                  "children": [
+                                    {
+                                      "name": "pto request",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "plug type",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Cluster_233",
+                              "children": [
+                                {
+                                  "name": "definition",
+                                  "children": []
+                                },
+                                {
+                                  "name": "Cluster_210",
+                                  "children": [
+                                    {
+                                      "name": "travel alert",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "Cluster_194",
+                                      "children": [
+                                        {
+                                          "name": "lost luggage",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Cluster_169",
+                                          "children": [
+                                            {
+                                              "name": "carry on",
+                                              "children": []
+                                            },
+                                            {
+                                              "name": "book flight",
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cluster_277",
+                          "children": [
+                            {
+                              "name": "Cluster_223",
+                              "children": [
+                                {
+                                  "name": "accept reservations",
+                                  "children": []
+                                },
+                                {
+                                  "name": "Cluster_155",
+                                  "children": [
+                                    {
+                                      "name": "restaurant reservation",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "cancel reservation",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Cluster_264",
+                              "children": [
+                                {
+                                  "name": "Cluster_221",
+                                  "children": [
+                                    {
+                                      "name": "Cluster_180",
+                                      "children": [
+                                        {
+                                          "name": "travel suggestion",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "directions",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Cluster_206",
+                                      "children": [
+                                        {
+                                          "name": "uber",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "smart home",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Cluster_247",
+                                  "children": [
+                                    {
+                                      "name": "flip coin",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "Cluster_202",
+                                      "children": [
+                                        {
+                                          "name": "current location",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "share location",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cluster_289",
+                      "children": [
+                        {
+                          "name": "Cluster_251",
+                          "children": [
+                            {
+                              "name": "Cluster_174",
+                              "children": [
+                                {
+                                  "name": "translate",
+                                  "children": []
+                                },
+                                {
+                                  "name": "change language",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Cluster_211",
+                              "children": [
+                                {
+                                  "name": "restaurant suggestion",
+                                  "children": []
+                                },
+                                {
+                                  "name": "meal suggestion",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cluster_281",
+                          "children": [
+                            {
+                              "name": "Cluster_271",
+                              "children": [
+                                {
+                                  "name": "Cluster_242",
+                                  "children": [
+                                    {
+                                      "name": "tell joke",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "Cluster_218",
+                                      "children": [
+                                        {
+                                          "name": "repeat",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "calculator",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Cluster_246",
+                                  "children": [
+                                    {
+                                      "name": "Cluster_227",
+                                      "children": [
+                                        {
+                                          "name": "Cluster_150",
+                                          "children": [
+                                            {
+                                              "name": "todo list update",
+                                              "children": []
+                                            },
+                                            {
+                                              "name": "todo list",
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Cluster_209",
+                                          "children": [
+                                            {
+                                              "name": "Cluster_157",
+                                              "children": [
+                                                {
+                                                  "name": "book hotel",
+                                                  "children": []
+                                                },
+                                                {
+                                                  "name": "are you a bot",
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Cluster_161",
+                                              "children": [
+                                                {
+                                                  "name": "calendar",
+                                                  "children": []
+                                                },
+                                                {
+                                                  "name": "calendar update",
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Cluster_239",
+                                      "children": [
+                                        {
+                                          "name": "Cluster_162",
+                                          "children": [
+                                            {
+                                              "name": "shopping list update",
+                                              "children": []
+                                            },
+                                            {
+                                              "name": "shopping list",
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Cluster_214",
+                                          "children": [
+                                            {
+                                              "name": "text",
+                                              "children": []
+                                            },
+                                            {
+                                              "name": "Cluster_182",
+                                              "children": [
+                                                {
+                                                  "name": "what can i ask you",
+                                                  "children": []
+                                                },
+                                                {
+                                                  "name": "Cluster_153",
+                                                  "children": [
+                                                    {
+                                                      "name": "car rental",
+                                                      "children": []
+                                                    },
+                                                    {
+                                                      "name": "order",
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Cluster_276",
+                              "children": [
+                                {
+                                  "name": "Cluster_259",
+                                  "children": [
+                                    {
+                                      "name": "Cluster_188",
+                                      "children": [
+                                        {
+                                          "name": "ingredients list",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Cluster_171",
+                                          "children": [
+                                            {
+                                              "name": "ingredient substitution",
+                                              "children": []
+                                            },
+                                            {
+                                              "name": "recipe",
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Cluster_220",
+                                      "children": [
+                                        {
+                                          "name": "restaurant reviews",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Cluster_199",
+                                          "children": [
+                                            {
+                                              "name": "nutrition info",
+                                              "children": []
+                                            },
+                                            {
+                                              "name": "calories",
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Cluster_261",
+                                  "children": [
+                                    {
+                                      "name": "meaning of life",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "roll dice",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
